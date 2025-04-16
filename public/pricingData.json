@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 29.99,
+    "description": "Affordable access to gym with basic equipment and fitness classes.",
+    "features": [
+      "Access to gym during regular hours",
+      "Use of basic gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Access to basic fitness classes (e.g., yoga, pilates)",
+      "1 free guest pass per month",
+      "Monthly progress tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 49.99,
+    "description": "24/7 access with premium equipment and personal training.",
+    "features": [
+      "Access to gym 24/7",
+      "Use of premium gym equipment",
+      "Locker room and sauna access",
+      "Free Wi-Fi",
+      "2 personal training sessions per month",
+      "Access to specialized fitness classes (e.g., HIIT, CrossFit)",
+      "Priority booking for classes",
+      "Discounts on health supplements",
+      "Free body composition analysis every 3 months"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 79.99,
+    "popular": true,
+    "description": "Unlimited access, personal training, and exclusive fitness classes.",
+    "features": [
+      "Access to gym 24/7",
+      "Use of all gym equipment including premium machines",
+      "Locker room, sauna, and steam room access",
+      "Free Wi-Fi",
+      "Unlimited personal training sessions",
+      "Priority booking for classes",
+      "Free guest passes (5 per month)",
+      "Access to exclusive high-end fitness classes (e.g., Spin, Boxing)",
+      "Nutrition consultation and personalized meal plans",
+      "Access to VIP lounge area",
+      "Free massage therapy session once per month"
+    ]
+  }
+]
